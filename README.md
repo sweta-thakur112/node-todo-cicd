@@ -19,4 +19,5 @@ test
 
 
 #Build completed
-![image](https://github.com/sweta-thakur112/node-todo-cicd/assets/99349185/a2287b1e-37e7-4b5a-9ba9-598afbd6c51f)
+![image](https://github.com/sweta-thakur112/node-todo-cicd/assets/99349185/6d3238f6-39b6-4080-812c-dad1bcfe89ab)
+
